@@ -22,14 +22,7 @@ The project aims to automate quality inspection in industries, reducing the need
 * **Roboflow**: A platform used to manage and preprocess the dataset for training.
 * **Google Colab**: Used as the platform for model training with GPU support.
 
-## Installation
-
-To run this project locally, clone the repository and install the required dependencies.
-
-```bash
-git clone https://github.com/yourusername/steel-defect-detection.git
-cd steel-defect-detection
-pip install -r requirements.txt
-```
+## Deployed
+Link : https://huggingface.co/spaces/sv22/steel-defect-detector
 
 
